@@ -1,0 +1,87 @@
+.logo {
+  width: 150px;
+}
+
+#title {
+  background: linear-gradient(180deg, #00C4D5 30%, #00A2B7 90%);
+}
+
+.video {
+  background-color: #00A2B7;
+}
+
+.height {
+  height: 100vh;
+}
+
+.footer {
+  background-color: #414042;
+}
+
+.navBar {
+  padding-left: 25%;
+}
+
+.Heading {
+  padding-bottom: 400px;
+  padding-top: 250px;
+  color: #ffffff;
+  font-size: 1rem;
+}
+
+h5 {
+  color: #6e6c6c;
+}
+
+.middleBody {
+  border-top-width: 50px;
+  margin-top: 50px;
+}
+
+.phoneImgCol {
+  width: 30rem
+}
+
+.botBelPhone {
+  padding-left: 120px;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+.col1 {
+  padding-left: 100px;
+  padding-top: 250px;
+  border-top-width: 100px;
+  padding-bottom: 100px;
+  color: #ebeced;
+}
+
+.col2 {
+  color: #ffffff;
+}
+
+.tryus {
+  text-align: center;
+  color: #ffffff;
+  padding-bottom: 25px;
+
+}
+
+.rowButtons {
+  padding-bottom: 50px;
+}
+
+.questions {
+  text-align: center;
+  padding-bottom: 50px;
+  color: #ffffff;
+}
+
+.learnMore {
+
+  padding-top: 20px;
+}
+
+.transfers {
+  font-size: 1.5rem;
+}
